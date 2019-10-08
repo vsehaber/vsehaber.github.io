@@ -19,7 +19,7 @@ description:
   This is a blog of someone passionate about statistics who wants to share some of the things she knows
   about Statistical Analyses
 baseurl: "" # the subpath of your site, e.g. /blog
-github_username:  alainpham
+github_username:  vsehaber
 
 # jekyll-paginate configuration
 paginate: 10
